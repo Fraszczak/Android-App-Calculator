@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidStudio Java Calculator</string>
+    <string name="result">0</string>
+    <string name="bottom_result">AndroidStudio Java Calculator</string>
+    <string name="press_button">press button</string>
+    <string name="b0">b1+b2</string>
+</resources>
